@@ -1,0 +1,20 @@
+Senior Backend Engineer - InnovateTech Solutions (Remote)
+Salary: $150K-$200K + equity
+
+Requirements:
+- 4+ years software engineering
+- Strong Python (Django/FastAPI/Flask)
+- One other backend language (Go/Java/Rust)
+- Microservices architecture, RESTful APIs
+- SQL + NoSQL databases (PostgreSQL, MongoDB, Redis)
+- AWS cloud platform
+- Docker, Kubernetes
+- CI/CD practices
+- Problem-solving, code quality
+
+Nice to Have:
+- Kafka, RabbitMQ event-driven
+- Terraform IaC
+- Grafana, Prometheus monitoring
+- Distributed systems design
+- ML/data pipeline knowledge

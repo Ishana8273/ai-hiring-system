@@ -1,0 +1,29 @@
+JOHN DOE
+Senior Software Engineer
+Email: john.doe@email.com | Phone: (555) 123-4567 | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5+ years in Python, Go, and cloud-native tech.
+Led teams building microservices serving 10M+ daily requests.
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, Go, SQL
+Frameworks: Django, FastAPI, Flask, React, Node.js
+Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Terraform
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Tools: Git, Grafana, Prometheus, Kafka, CI/CD
+
+EXPERIENCE
+Senior SWE | TechCorp | 2022-Present
+- Led team of 4, microservices platform 10M+ req/day
+- FastAPI REST APIs 99.95% uptime
+- CI/CD optimization 60% faster deploys
+- Redis caching layer 45% DB load reduction
+
+SWE | StartupXYZ | 2019-2021
+- Full-stack React + Django
+- Kafka real-time data pipeline
+- PostgreSQL optimization 40% faster queries
+
+EDUCATION: BS Computer Science, State University, 2019, GPA 3.7
+CERTS: AWS Solutions Architect, CKAD, Terraform Associate
